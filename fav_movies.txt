@@ -1,11 +1,9 @@
 Love Actually
 Up
 Hercules
-<<<<<<< HEAD
 Lion King 
 Midnight in Paris 
-=======
 Ratatouille 
 Lion King
 Midnight in Paris
->>>>>>> a616d7d25a585ab12d09b72b4e58ce044475953f
+
